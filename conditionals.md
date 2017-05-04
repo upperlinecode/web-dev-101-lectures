@@ -1,9 +1,9 @@
 # Conditionals
-
-CONDITIONALS - Explain the use of a boolean data type.
-CONDITIONALS - Explain what an if statement is and why it's used
-CONDITIONALS - Implement an if statement with 1, 2, and 3+ branches
-CONDITIONALS - Use comparison operators in a conditional statement
+SWBATs:
++ CONDITIONALS - Explain the use of a boolean data type.
++ CONDITIONALS - Explain what an if statement is and why it's used
++ CONDITIONALS - Implement an if statement with 1, 2, and 3+ branches
++ CONDITIONALS - Use comparison operators in a conditional statement
 
 ## Suggested Hooks
 
