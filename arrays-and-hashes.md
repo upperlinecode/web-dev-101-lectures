@@ -123,3 +123,33 @@ Challenge the students to figure out how to do the same CRUD by googling and loo
 + How to add to a hash
 + How to delete a key-value pair
 + How to change a value for a key value pair
+
+## Nesting
+
+There are cases when we have to put hashes inside of arrays, or arrays inside of hashes, or arrays inside of arrays, etc. Whenever our data gets more complicated than one or two pieces of information, we need to **nest** data structures.
+
+Let's build a nested hash together:
+
+```ruby
+student_info = {
+                :sam => {
+                  :name => "Samuel Samuelson",
+                  :age => 15,
+                  :siblings => ["Samantha", "Sophie"]
+                },
+                :rebecca => {
+                  :name => "Rebecca Richards",
+                  :age => 16,
+                  :siblings => ["Robert", "Raffi", "Randy"]
+                },
+                :charlene => {
+                  :name => "Charlene Carlton",
+                  :age => 14,
+                  :siblings => ["Cassandra"]
+                }
+}
+```
+Talk through this and then show students that we just add on brackets to access different parts of the array.
++ To get Rebecca's age: `student_info[:rebecca][:age]`
++ Get Charlene's first sibling: `student_info[:charlene][:siblings][0]`
+etc
