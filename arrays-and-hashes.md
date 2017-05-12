@@ -152,4 +152,5 @@ student_info = {
 Talk through this and then show students that we just add on brackets to access different parts of the array.
 + To get Rebecca's age: `student_info[:rebecca][:age]`
 + Get Charlene's first sibling: `student_info[:charlene][:siblings][0]`
-etc
+
+Have students work through [Nested Data Structures mini lab](https://github.com/upperlinecode/nested-data-structures-mini-lab/)
