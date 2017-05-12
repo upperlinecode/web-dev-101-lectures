@@ -11,17 +11,14 @@ ARRAY - Create an array
 ARRAY - Return a specific value from an array using it's index
 ARRAY - Add, delete and modify items in an array
 ARRAY - Mutate arrays using methods available to all arrays
-ARRAY - Iterate through arrays using the each method
 ARRAY - Use .split to change a string into an array
-ARRAY - Assign various an array to a variable
 HASH - Explain what a hash is and why it's used
 HASH - Create a hash
 HASH - Return a specific value from a hash using it's key
 HASH - Mutate hashes using methods available to all hashes
-HASH - Add delete and modify key-value pairs in a hash
+HASH - Add, delete and modify key-value pairs in a hash
 HASH - Explain what a symbol is and why it's used
 HASH - Use symbols as keys in hashes
-HASH - Iterate through hashes using the each, each_key, and each_value methods
 HASH - Parse through nested hashes and arrays to pull out specific pieces data
 
 ## Hook
