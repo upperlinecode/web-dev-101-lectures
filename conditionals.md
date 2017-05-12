@@ -1,4 +1,4 @@
-# Conditionals
+# Conditionals Lecture
 SWBATs:
 + CONDITIONALS - Explain the use of a boolean data type.
 + CONDITIONALS - Explain what an if statement is and why it's used
